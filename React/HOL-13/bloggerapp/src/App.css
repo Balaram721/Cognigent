@@ -1,0 +1,36 @@
+.container{
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:80px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container>div{
+    width:300px;
+    padding:20px;
+    border-right:4px solid green;
+}
+
+.container>div:last-child{
+    border-right:none;
+}
+
+h1{
+    font-size:40px;
+}
+
+h2{
+    margin-top:25px;
+}
+
+h3{
+    margin-top:20px;
+}
+
+h4{
+    font-weight:bold;
+}
+
+p{
+    color:#444;
+}
