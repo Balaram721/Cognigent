@@ -1,0 +1,35 @@
+.box {
+  width: 290px;
+  min-height: 205px;
+  padding: 24px 18px 16px;
+  border: 1px solid #c8c8c8;
+  border-radius: 8px;
+  box-sizing: border-box;
+  position: relative;
+  overflow:auto;
+}
+
+.box h3 {
+  margin: 0 0 18px;
+  font-size: 16px;
+}
+
+.scheduled {
+  color: blue;
+}
+
+.ongoing {
+  color: green;
+}
+
+.box dl {
+  margin: 0;
+}
+
+.box dt {
+  font-weight: 700;
+}
+
+.box dd {
+  margin: 0 0 8px 32px;
+}

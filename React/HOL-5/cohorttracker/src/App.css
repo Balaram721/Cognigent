@@ -1,0 +1,14 @@
+.page {
+  padding: 18px 16px;
+}
+
+.page h1 {
+  margin: 0 0 34px;
+  font-size: 28px;
+}
+
+.cohort-list {
+  display: flex;
+  gap: 34px;
+  flex-wrap: wrap;
+}
